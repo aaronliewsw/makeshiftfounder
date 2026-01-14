@@ -1,0 +1,23 @@
+[
+  {
+    "slug": "decision-dice",
+    "name": "Decision Dice",
+    "tagline": "Outsource tiny choices to plastic probability.",
+    "status": "beta",
+    "url": "#"
+  },
+  {
+    "slug": "tab-tamer",
+    "name": "Tab Tamer",
+    "tagline": "Kicks your 143 open tabs into three piles.",
+    "status": "useful",
+    "url": "#"
+  },
+  {
+    "slug": "vibe-timer",
+    "name": "Vibe Timer",
+    "tagline": "A 20\u2011minute sprint with vibes, not guilt.",
+    "status": "weird",
+    "url": "#"
+  }
+]

@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --cadet-gray: #91a0aa;
+  --rich-black: #071011;
+  --hunyadi-yellow: #e6a835;
+  --light-yellow: #fbfbdd;
+  --white: #ffffff;
+}
+
+html {
+  color-scheme: dark light;
+}
+
+html.dark body {
+  background: var(--rich-black);
+  color: var(--light-yellow);
+}
+
+html.light body {
+  background: var(--white);
+  color: var(--rich-black);
+}
+
+::selection {
+  background: var(--hunyadi-yellow);
+  color: var(--rich-black);
+}
